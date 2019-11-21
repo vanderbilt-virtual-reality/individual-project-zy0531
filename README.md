@@ -12,27 +12,27 @@ The first one is cards just existing in front of users’ eyes when they come in
 In this part, when users grab the cards, the sound effect tells that they get it and then cards will disappear. 
 When users get close enough to these floating monsters, the monsters will spout flames, and stop when users leave.
 ```
-![1](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture1.PNG)
+![capture1](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture1.PNG)
 
 The second part is to climb a high slide to get the second playing cards. When one just as a young adult enters society, full of spirit, he/she highly motivated goes ahead every day without thinking any danger on the way, until one day they suddenly find the world force him/her to the corner and show no way to go. Jump up bravely and afterwards change to another mindset, which is the precious life experience told in the second playing cards. 
 ```
 In this part, users should climb along the track of the slide, 
 and pick up the cards when they reach the top and then falling off, into a bunch of food.
 ```
-![2](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture2.PNG)
+![capture3](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture3.PNG)
 
 In the third part, users are to get the cards in a high place above a small voxel world. One then learns how to achieve goals by seeking helps from external environment as well as from other people, also becoming more experienced and learning to be tactful.
 ```
 In this part, due to the cards in high place, users should manipulate the kinematic items 
 to construct steps to go that position and get the cards.
 ```
-![3](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture3.PNG)
+![capture2](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture2.PNG)
 
 The final cards for the user to find exist close to the mask of the joker. This means to remove the masks and face one’s true self, eventually.
 ```
 In this part, users can find the last ones in the circus tent in front of a huge mask.
 ```
-![4](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture4.PNG)
+![capture4](https://raw.githubusercontent.com/vanderbilt-virtual-reality/individual-project-zy0531/master/Capture4.PNG)
 
 
 ## Motivation
