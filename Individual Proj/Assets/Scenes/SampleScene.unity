@@ -1236,7 +1236,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a942cbd721a4c42b2acbb62c1f0890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Score: 1
 --- !u!82 &63068019
 AudioSource:
   m_ObjectHideFlags: 0
@@ -21979,7 +21978,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a942cbd721a4c42b2acbb62c1f0890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Score: 1
 --- !u!65 &1230301173
 BoxCollider:
   m_ObjectHideFlags: 0
@@ -24785,7 +24783,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a942cbd721a4c42b2acbb62c1f0890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Score: 1
 --- !u!82 &1370639145
 AudioSource:
   m_ObjectHideFlags: 0
@@ -35200,7 +35197,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 61a942cbd721a4c42b2acbb62c1f0890, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  Score: 1
 --- !u!82 &1985308841
 AudioSource:
   m_ObjectHideFlags: 0
